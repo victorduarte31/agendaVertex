@@ -4,6 +4,8 @@
 
 - Atenção ao arquivo .env, na qual ficam as configurações a serem feitas no banco de dados.
 
+- rodar o comando __npm install__ para baixar as dependencias que se encontram no package.json 
+
 - rodar o comando __php artisan migrate__ para criar as tabelas no banco 
 
 - rodar o comando __php artisan serve__ para startar o servidor imbutido do laravel, ele ira rodar na porta 8000, ou seja localhost:8000/
